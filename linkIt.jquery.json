@@ -1,7 +1,3 @@
-"https://plugins.jquery.com/docs/package-manifest/"
-"Validate Your Manifest File:
-https://plugins.jquery.com/docs/publish/"
-
 {
     "name": "linkIt",
     "title": "LinkIt jQuery Plugin",
@@ -11,7 +7,7 @@ https://plugins.jquery.com/docs/publish/"
         "html",
         "content"
     ],
-    "version": "0.2.0",
+    "version": "0.3.0",
     "author": {
         "name": "Mohamed Mourad",
         "url": "http://mohamed.com"
