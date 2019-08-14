@@ -1,0 +1,37 @@
+"https://plugins.jquery.com/docs/package-manifest/"
+"Validate Your Manifest File:
+https://plugins.jquery.com/docs/publish/"
+
+{
+    "name": "linkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "Simple plugin to convert any element into a link.",
+    "keywords": [
+        "link",
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Mohamed Mourad",
+        "url": "http://mohamed.com"
+    },
+    "maintainers": [
+        {
+            "name": "Mohamed Mourad",
+            "email": "mohmou222@gmail.com",
+            "url": "http://mohamed.com"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/mohmou222/jquery.linkit/LICENSE.txt"
+        }
+    ],
+    "homepage": "https://github.com/mohmou222/jquery.linkit",
+    "docs": "https://github.com/mohmou222/jquery.linkit",
+    "dependencies": {
+        "jquery": ">=1.9"
+    }
+}
